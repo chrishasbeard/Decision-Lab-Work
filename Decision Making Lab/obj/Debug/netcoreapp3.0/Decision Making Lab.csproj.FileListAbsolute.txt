@@ -1,0 +1,3 @@
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.AssemblyInfo.cs
