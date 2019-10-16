@@ -1,3 +1,11 @@
 C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.csprojAssemblyReference.cache
 C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.AssemblyInfoInputs.cache
 C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\bin\Debug\netcoreapp3.0\Decision Making Lab.exe
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\bin\Debug\netcoreapp3.0\Decision Making Lab.deps.json
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\bin\Debug\netcoreapp3.0\Decision Making Lab.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\bin\Debug\netcoreapp3.0\Decision Making Lab.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\bin\Debug\netcoreapp3.0\Decision Making Lab.dll
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\bin\Debug\netcoreapp3.0\Decision Making Lab.pdb
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.dll
+C:\Users\Holmes HQ\source\repos\Decision Making Lab\Decision Making Lab\obj\Debug\netcoreapp3.0\Decision Making Lab.pdb
